@@ -1,0 +1,10 @@
+{
+  "workingPath": "./",
+  "operations": {
+      "filesToRemove": ".tmp",
+      "filesToRename": [".rename", ".renamed"],
+      "filesToCopy": [".copy", "copied"],
+      "filesToReplace": [".replace", "replaced"],
+      "arch": [".a", "zip", ""]
+  }
+}
