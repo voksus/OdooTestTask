@@ -7,5 +7,4 @@ Chosen tasks is :
 * 4 - Sales receipt
 
  
--
-© Volodumum Burtsev
+    © Volodumum Burtsev
